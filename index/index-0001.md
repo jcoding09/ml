@@ -1,1 +1,1 @@
-[Learning Resource](https://jcoding09.github.io/ml/modules/module0001/module0001-0001.html)
+1. [Learning Resource](https://jcoding09.github.io/ml/modules/module0001/module0001-0001.html)
